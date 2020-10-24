@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/maximilian_vincent%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 
 
-I'm a student who loves to code. Mostly I use the following languages/frameoworks:
+I'm a student who loves to code. Mostly I use the following languages/frameworks:
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
