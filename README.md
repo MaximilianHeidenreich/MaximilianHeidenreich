@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi I'm Maximilian 👋
+
+[![Instagram Badge](https://img.shields.io/badge/maximilian_vincent%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)
+
+
+I'm a student who loves to code. Mostly I use the following languages/frameoworks:
+
+[![Nodejs Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+[![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Typescript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+[![Vue Badge](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+
 
 <!--
 **MaximilianHeidenreich/MaximilianHeidenreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
