@@ -48,9 +48,11 @@
 <br>
 
 <h3>📕 Latest Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Hello World](http://blog.maximilian-heidenreich.de/2020/10/26/hello-world/)
 <!-- BLOG-POST-LIST:END -->
+<br>
 <br>
 
 [![Maximilian'S github stats](https://github-readme-stats.vercel.app/api?username=MaximilianHeidenreich&show_icons=true)](https://github.com/MaximilianHeidenreich)
