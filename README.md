@@ -49,6 +49,7 @@
 
 <h3>📕 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](http://blog.maximilian-heidenreich.de/2020/10/26/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
