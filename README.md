@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Hi, I'm Maximilian 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> &nbsp; Hi, I'm Maximilian</h1>
 
 <p>Welcome to my page! </br> I'm Maximilian, Student and passioned coder from  <img src="https://www.flaticon.com/svg/static/icons/svg/555/555613.svg" width="13"/> <b>Stuttgart, Germany</b>. I love to learn new languages, freameworks and tools.</p>
 <br>
