@@ -36,13 +36,6 @@
     </tr>
   </thead>
   <tbody>
-  	<tr>
-		<td><a href="https://github.com/MaximilianHeidenreich/ToastMoji"><b>ToastMoji</b></a></td>
-		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-    	</tr>
 	<tr>
 		<td><a href="https://github.com/MaximilianHeidenreich/Snipp"><b>Snipp</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/Snipp?style=flat-square"/></td>
@@ -50,6 +43,13 @@
 		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/Snipp?style=flat-square"/></td>
 		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/Snipp?style=flat-square"/></td>
 	</tr>
+	<tr>
+		<td><a href="https://github.com/MaximilianHeidenreich/ToastMoji"><b>ToastMoji</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
+    	</tr>
   </tbody>
 </table>
 <br>
