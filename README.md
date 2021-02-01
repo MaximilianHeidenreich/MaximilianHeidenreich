@@ -44,22 +44,14 @@
 		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/Snipp?style=flat-square"/></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/MaximilianHeidenreich/ToastMoji"><b>ToastMoji</b></a></td>
-		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
-		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/ToastMoji?style=flat-square"/></td>
+		<td><a href="https://github.com/MaximilianHeidenreich/DsDDB"><b>DsDDB</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/DsDDB?style=flat-square"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/DsDDB?style=flat-square"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/DsDDB?style=flat-square"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/DsDDB?style=flat-square"/></td>
     	</tr>
   </tbody>
 </table>
-<br>
-
-<h3>📕 Latest Blog Posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [Hello World](http://blog.maximilian-heidenreich.de/2020/10/26/hello-world/)
-<!-- BLOG-POST-LIST:END -->
-<br>
 <br>
 
 [![Maximilian'S github stats](https://github-readme-stats.vercel.app/api?username=MaximilianHeidenreich&show_icons=true)](https://github.com/MaximilianHeidenreich)
