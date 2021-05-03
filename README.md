@@ -23,6 +23,13 @@
 		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/Brief?style=flat-square"/></td>
 	</tr>
 	<tr>
+		<td><a href="https://github.com/MaximilianHeidenreich/JNet"><b>JNet</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/JNet?style=flat-square"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/JNet?style=flat-square"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/JNet?style=flat-square"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MaximilianHeidenreich/JNet?style=flat-square"/></td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/MaximilianHeidenreich/JEventLoop"><b>JEventLoop</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/JEventLoop?style=flat-square"/></td>
 		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/JEventLoop?style=flat-square"/></td>
