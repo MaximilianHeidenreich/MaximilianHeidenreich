@@ -16,6 +16,13 @@
   </thead>
   <tbody>
 	<tr>
+		<td><a href="https://github.com/EnderSuite/EnderSync"><b>EnderSync</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/EnderSuite/EnderSync?style=flat-square"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/EnderSuite/EnderSync?style=flat-square"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/EnderSuite/EnderSync?style=flat-square"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EnderSuite/EnderSync?style=flat-square"/></td>
+	</tr>
+	<tr>
 		<td><a href="https://github.com/MaximilianHeidenreich/Brief"><b>Brief</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/Brief?style=flat-square"/></td>
 		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/Brief?style=flat-square"/></td>
