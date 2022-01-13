@@ -16,7 +16,7 @@
   </thead>
   <tbody>
 	<tr>
-		<td><a href="https://github.com/EnderSuite/grit.css"><b>Grit</b></a></td>
+		<td><a href="https://github.com/MaximilianHeidenreich/grit.css"><b>Grit</b></a></td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/MaximilianHeidenreich/grit.css?style=flat-square"/></td>
 		<td><img alt="Forks" src="https://img.shields.io/github/forks/MaximilianHeidenreich/grit.css?style=flat-square"/></td>
 		<td><img alt="Issues" src="https://img.shields.io/github/issues/MaximilianHeidenreich/grit.css?style=flat-square"/></td>
